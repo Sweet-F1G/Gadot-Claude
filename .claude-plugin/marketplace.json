@@ -1,0 +1,21 @@
+{
+  "name": "claude-godot",
+  "owner": {
+    "name": "Sweet-F1G",
+    "url": "https://github.com/Sweet-F1G"
+  },
+  "plugins": [
+    {
+      "name": "claude-godot",
+      "source": "./plugins/claude-godot",
+      "description": "See and drive an open Godot 4 editor with eight tools: scene tree, node properties, screenshots, play, and the game log.",
+      "version": "0.2.0",
+      "author": {
+        "name": "Sweet-F1G"
+      },
+      "homepage": "https://github.com/Sweet-F1G/Gadot-Claude",
+      "category": "development",
+      "keywords": ["godot", "gamedev", "mcp"]
+    }
+  ]
+}

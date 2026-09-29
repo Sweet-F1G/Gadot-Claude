@@ -1,0 +1,13 @@
+{
+  "name": "claude-godot",
+  "description": "See and drive an open Godot 4 editor. Eight tools: status, scene tree, one node, one property with undo, a viewport screenshot, play/stop, the game log, and a file rescan.",
+  "version": "0.2.0",
+  "author": {
+    "name": "Sweet-F1G",
+    "url": "https://github.com/Sweet-F1G"
+  },
+  "homepage": "https://github.com/Sweet-F1G/Gadot-Claude",
+  "repository": "https://github.com/Sweet-F1G/Gadot-Claude",
+  "license": "MIT",
+  "keywords": ["godot", "gamedev", "mcp"]
+}
